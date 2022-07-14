@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
       "id": "dfe87d25-f74b-4d11-9b43-19a07694e460",
       "name": "tesdt",
       "description": "sdfdfdsfsdfds",
@@ -19,10 +13,16 @@
       "element": "water"
     },
     {
-      "id": "9d623f4b-c483-4c83-a5af-cf582cde5921",
-      "name": "dgffdg",
-      "description": "jhgjjhgj",
+      "id": "4b2103b7-f547-4cc3-9e99-d4001d32679f",
+      "name": "FGDG",
+      "description": "DFSDFSDFSDF",
       "element": "wind"
+    },
+    {
+      "id": "6df23e04-714c-41f7-9b01-81f49b6200f1",
+      "name": "jkl",
+      "description": "rwerwerewr",
+      "element": "fire"
     }
   ],
   "filters": [
